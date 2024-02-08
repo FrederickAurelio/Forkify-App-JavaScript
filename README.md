@@ -19,7 +19,7 @@ npm run start
 - Pagination
 - Adjust Servings Quantity
 
-## What I Learned to do
+## What I Have Learned
 - Using Npm (e.g. Parcel)
 - Object Oriented Programming
 - Asynchronous Javascript, Promises, AJAX, Async/Await
