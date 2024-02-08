@@ -4,8 +4,12 @@ These projects were developed following "The Complete JavaScript Course 2023: Fr
 
 ### How to run this application
 In order to run this application in your local, simply run in terminal:
-
+```
 npm install
-
 npm start
+```
 
+## Screenshot of the App
+![Screenshot (165)](https://github.com/FrederickAurelio/Forkify-App-JavaScript/assets/121996224/1a8682bc-f7c9-471d-9bb5-5a6251374f27)
+
+## Features:
