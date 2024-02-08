@@ -6,7 +6,7 @@ These projects were developed following "The Complete JavaScript Course 2023: Fr
 In order to run this application in your local, simply run in terminal:
 ```
 npm install
-npm start
+npm run start
 ```
 
 ## Screenshot of the App
