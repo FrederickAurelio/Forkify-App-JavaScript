@@ -18,3 +18,12 @@ npm run start
 - Add Bookmarks
 - Pagination
 - Adjust Servings Quantity
+
+## What I Learned to do
+- Using Npm (e.g. Parcel)
+- Object Oriented Programming
+- Asynchronous Javascript, Promises, AJAX, Async/Await
+- MVC (Model, View, Controller) Architecture
+- Exporting and Importing in ES6 Modules
+- DOM Manipulation
+- Using API (fetch GET and POST)
