@@ -13,3 +13,8 @@ npm run start
 ![Screenshot (165)](https://github.com/FrederickAurelio/Forkify-App-JavaScript/assets/121996224/1a8682bc-f7c9-471d-9bb5-5a6251374f27)
 
 ## Features:
+- Search Recipe
+- Add Recipe
+- Add Bookmarks
+- Pagination
+- Adjust Servings Quantity
